@@ -15,11 +15,7 @@ http://guerillaopenaccess.com/
 
 À PROPOS DES DONNÉES - INFORMATION TECHNIQUE
 
-Simplement texte:
-  A0A1B0=10001
-  A0A1E0=10001
-  ...
-  Y1A7A3=60001
+Le fichier est un hash en format YAML.
 
 Les codes postaux changent souvent, et certains manquent à cette première publication. Si vous avec plus de données, veuillez créer une branche et nous envoyer une requête de fusion sur github:
 

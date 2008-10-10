@@ -14,11 +14,7 @@ http://guerillaopenaccess.com/
 
 ABOUT THE DATA - TECHNICAL INFO
 
-It's all plain text:
-  A0A1B0=10001
-  A0A1E0=10001
-  ...
-  Y1A7A3=60001
+The file is stored as a hash in YAML.
 
 Postal codes change often, and some are missing for this first release. If you have more data, please fork and send pull requests on github:
 http://github.com/danielharan/canadian-postal-code-to-electoral-districts/tree/master
