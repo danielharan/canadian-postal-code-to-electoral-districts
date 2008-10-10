@@ -1,0 +1,32 @@
+This is an open and free alternative to StatsCan's "Postal Codes by Federal Ridings File (PCFRF)", which costs $2,500:
+http://www.statcan.ca/bsolc/english/bsolc?catno=92F0193X
+
+Because of that price, too many organizations have shelved projects aiming to educate voters. This data is free for you to build whatever projects you want with, regardless of your political orientation.
+
+Despite letter writing and meetings with MPs, government hasn't moved on this issue. User fees trump democracy and an informed citizenry.
+
+Many other data sets need to be liberated for government to be more fully accountable. Please help the wider movement for civic access by joining the discussion and pledging support:
+
+http://civicaccess.ca/
+http://lists.pwd.ca/mailman/listinfo/civicaccess-discuss
+http://ibelieveinopen.ca/
+http://guerillaopenaccess.com/
+
+ABOUT THE DATA - TECHNICAL INFO
+
+It's all plain text:
+  A0A1B0=10001
+  A0A1E0=10001
+  ...
+  Y1A7A3=60001
+
+Postal codes change often, and some are missing for this first release. If you have more data, please fork and send pull requests on github:
+http://github.com/danielharan/canadian-postal-code-to-electoral-districts/tree/master
+
+AUTHORS
+
+Daniel Haran and Nicolas Marchildon
+
+LICENSE
+
+Creative Commons, Share-Alike
