@@ -1,0 +1,36 @@
+Ceci est une alternative libre et gratuite au "Fichier des codes postaux par circonscriptions électorales fédérales (FCPCEF)", qui coûte 2 500$:
+
+http://www.statcan.ca/bsolc/francais/bsolc?catno=92F0193X
+
+À cause de ce prix, trop d'organisations ont exclu des projets visant l'éducation des électeurs. Les données que nous fournissons sont gratuites, et peuvent être utilisées pour ce que vous voulez, peu importe votre orientation politique.
+
+Les frais d'utilisation sont anti-démocratiques. Malgré des lettres et rencontres avec des députés, le gouvernement est resté muet à ce sujet. Nous libérons ces données en désespoir de cause.
+
+Plusieurs autres données doivent être libérées pour avoir un gouvernement plus responsable. Aidez le large mouvenement pour l'accès civique en partipant à la discussion et en offrant votre support:
+
+http://civicaccess.ca/
+http://lists.pwd.ca/mailman/listinfo/civicaccess-discuss
+http://ibelieveinopen.ca/
+http://guerillaopenaccess.com/
+
+À PROPOS DES DONNÉES - INFORMATION TECHNIQUE
+
+Simplement texte:
+  A0A1B0=10001
+  A0A1E0=10001
+  ...
+  Y1A7A3=60001
+
+Les codes postaux changent souvent, et certains manquent à cette première publication. Si vous avec plus de données, veuillez créer une branche et nous envoyer une requête de fusion sur github:
+
+http://github.com/danielharan/canadian-postal-code-to-electoral-districts/tree/master
+
+AUTEURS
+
+Daniel Haran
+Nicolas Marchildon
+
+LICENCE
+
+Creative Commons, Share-Alike
+
